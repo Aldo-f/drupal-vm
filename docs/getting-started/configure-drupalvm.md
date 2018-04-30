@@ -16,6 +16,7 @@ The main configuration file of a project. Commonly this is a copy of `default.co
 vagrant_box: geerlingguy/centos7
 vagrant_hostname: my-custom-site.dev
 vagrant_machine_name: my_custom_site
+vagrant_ip: 192.168.88.89
 
 php_version: "5.6"
 ```
